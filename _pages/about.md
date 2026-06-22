@@ -9,7 +9,6 @@ redirect_from:
 
 Hi,my name is Jiankang Wang (王健康).
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
 A data-driven personal website
 ======
